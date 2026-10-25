@@ -1,0 +1,6 @@
+{
+  "name": "Vish Player",
+  "description": "High-fidelity offline-first music player by Vish Developing with 10-band equalizer, real-time audio visualizer, and local storage library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
